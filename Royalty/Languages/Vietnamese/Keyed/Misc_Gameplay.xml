@@ -47,6 +47,8 @@
   <NotUsable>Không thể sử dụng</NotUsable>
   <!-- EN: unpowered -->
   <Unpowered>Chưa cấp điện</Unpowered>
+  <!-- EN: blocked by roof -->
+  <BlockedByRoof>TODO</BlockedByRoof>
   <!-- EN: Too close to other beacon -->
   <TooCloseToOtherBeacon>Quá gần các beacon khác</TooCloseToOtherBeacon>
   

@@ -258,10 +258,16 @@
   <QuestBedroomRequirementsUnsatisfiedSingle>một phòng ngủ khả dụng đáp ứng yêu cầu tước vị của</QuestBedroomRequirementsUnsatisfiedSingle>
   <!-- EN: a colonist with the title of {0}. -->
   <QuestNoColonistWithTitle>một cư dân với chức vị {0}.</QuestNoColonistWithTitle>
+  <!-- EN: Choose rewards -->
+  <ChooseRewards>TODO</ChooseRewards>
   <!-- EN: Accept {FACTION_royalFavorLabel} -->
   <AcceptRoyalFavor>Chấp nhận {FACTION_royalFavorLabel}</AcceptRoyalFavor>
   <!-- EN: Whether you wish to be rewarded with {FACTION_royalFavorLabel} from {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-arriving quests. -->
   <AcceptRoyalFavorDesc>Bạn muốn được thưởng {FACTION_royalFavorLabel} từ {FACTION_name}.\n\nNếu điều này bị vô hiệu hóa, {FACTION_name} sẽ cung cấp các loại phần thưởng khác thay thế.\n\nCài đặt này chỉ ảnh hưởng đến các nhiệm vụ mới đến.</AcceptRoyalFavorDesc>
+  <!-- EN: Accept goodwill -->
+  <AcceptGoodwill>TODO</AcceptGoodwill>
+  <!-- EN: Whether you wish to be rewarded via improved faction relations with {FACTION_name}.\n\nIf this is disabled, {FACTION_name} will offer other types of rewards instead.\n\nThis setting only affects newly-generated quests. -->
+  <AcceptGoodwillDesc>TODO</AcceptGoodwillDesc>
   <!-- EN: You are currently opting in to receive {FACTION_royalFavorLabel}. -->
   <RoyalFavorOn>Bạn hiện đang chọn tham gia để nhận {FACTION_royalFavorLabel}.</RoyalFavorOn>
   <!-- EN: You are currently opting out of receiving {FACTION_royalFavorLabel}. -->

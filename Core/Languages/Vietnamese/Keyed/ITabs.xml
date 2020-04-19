@@ -98,6 +98,8 @@
   <PrisonBreakMTBDaysDescription>Số ngày trung bình của thời gian thực hiện các lần vượt ngục. Bị ảnh hưởng bởi tâm trạng, khả năng di chuyển và thời gian kể từ lần vượt ngục cuối cùng. \n\nSố này bỏ qua thời gian ngủ, vì vậy khoảng thời gian ở tù trung bình thực tế thường sẽ dài hơn.</PrisonBreakMTBDaysDescription>
   <!-- EN: Never -->
   <Never>Không bao giờ</Never>
+  <!-- EN: Not while asleep -->
+  <NotWhileAsleep>TODO</NotWhileAsleep>
   <!-- EN: Slave price -->
   <SlavePrice>Giá nô lệ</SlavePrice>
   <!-- EN: Gets food -->
